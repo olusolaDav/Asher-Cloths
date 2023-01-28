@@ -26,13 +26,13 @@ import {
 import { Category } from '../../store/categories/category.types';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyCQb5AiHW0hNhmll-47r9iv1G0KbNDe0ag",
-  authDomain: "cloth-shop-bf9b5.firebaseapp.com",
-  projectId: "cloth-shop-bf9b5",
-  storageBucket: "cloth-shop-bf9b5.appspot.com",
-  messagingSenderId: "110242336776",
-  appId: "1:110242336776:web:1ab78ffb87b19e2cc3c1bd",
-  measurementId: "G-0PZ15G72XR",
+  apiKey: "AIzaSyBhn2BaxEBKWk3QNZehxNX0gZQb3SCXCh8",
+  authDomain: "asher-cloths.firebaseapp.com",
+  projectId: "asher-cloths",
+  storageBucket: "asher-cloths.appspot.com",
+  messagingSenderId: "1050257746470",
+  appId: "1:1050257746470:web:541646f565208c630454e7",
+  measurementId: "G-QFW76PLL5X",
 };
 
 const firebaseApp = initializeApp(firebaseConfig);
